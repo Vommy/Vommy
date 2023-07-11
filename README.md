@@ -4,6 +4,19 @@
 ## About Me 
 I am an undergraduate computer scientist from the University of Waikato, New Zealand. I am experienced in developing web applications using web technologies and frameworks, as well as object-oriented programs. I have extensively practised data structures and algorithms and take a code-quality approach to any project. I also have multiple years of work history in team management in a professional environment, and am willing to constantly learn new skills and technologies. 
 
+## Personal Information
+_Personal Stats_
+- DOB: 27/02/2003
+- Ethnicity: Filipino
+- Religion: Catholic
+
+ _Interests_
+- Learning new languages (programming and natural)
+- Bodybuilding and working out
+- Listening to music, watching anime, drawing and playing video games
+- Meeting new people
+- Travelling
+
 ## Strengths
 - 2+ years of experience with developing web applications using technologies such as HTML, CSS, JavaScript, React, PHP and Node.js
 - 3 years of experience with object-oriented code as well data structures and algorithms
@@ -19,6 +32,7 @@ I am an undergraduate computer scientist from the University of Waikato, New Zea
 ## 🥇 Qualifications
 * Bachelor of Science BSC _[2021-Present]_
    > Major in Computer Science University of Waikato
+
 
 ## 💻 Technologies and Languages
 <div>
@@ -45,19 +59,6 @@ I am an undergraduate computer scientist from the University of Waikato, New Zea
 ## 💹 Github Stats
 [![Vommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vommy&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vommy&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-## Personal Information
-_Personal Stats_
-- DOB: 27/02/2003
-- Ethnicity: Filipino
-- Religion: Catholic
-
- _Interests_
-- Learning new languages (programming and natural)
-- Bodybuilding and working out
-- Listening to music, watching anime, drawing and playing video games
-- Meeting new people
-- Travelling
 
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its![Uploading aboutMe.png…]()
