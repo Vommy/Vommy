@@ -4,7 +4,7 @@
 ## About Me
 # Qualifications 
 • Bachelor of Science BSC                                [2021-Present]
-Majoring in Computer Science University of Waikato
+> Major in Computer Science University of Waikato
 
 
 <!--
