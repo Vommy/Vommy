@@ -8,7 +8,7 @@ I am an undergraduate computer scientist from the University of Waikato, New Zea
 - Machine Learning
 - Unity and game development
 
-### Qualifications
+## Qualifications
 * Bachelor of Science BSC _[2021-Present]_
    > Major in Computer Science University of Waikato
 
