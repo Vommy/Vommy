@@ -4,9 +4,17 @@
 ## About Me 
 I am an undergraduate computer scientist from the University of Waikato, New Zealand. I am experienced in developing web applications using web technologies and frameworks, as well as object-oriented programs. I have extensively practised data structures and algorithms and take a code-quality approach to any project. I also have multiple years of work history in team management in a professional environment, and am willing to constantly learn new skills and technologies. 
 
+## Strengths
+- 2+ years of experience with developing web applications using technologies such as HTML, CSS, JavaScript, React, PHP and Node.js
+- 3 years of experience with object-oriented code as well data structures and algorithms
+- Paid experience in leading team projects as well as handling client interactions. Strong communication and teamwork skills
+- Oriented to high code-quality solutions, good documentation and familiar with software design processes
+- Adaptable and open to learning new skills and mindsets
+
 ## 🌱 I’m currently learning ...
 - Machine Learning
 - Unity and game development
+- Embedded Systems
 
 ## Qualifications
 * Bachelor of Science BSC _[2021-Present]_
