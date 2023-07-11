@@ -1,4 +1,4 @@
-<div content-align="center">
+<div justify-content="center">
   <picture>
   <img src=/Assets/aboutMe.png>
   </picture>
