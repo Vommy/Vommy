@@ -10,8 +10,8 @@ I'm an undergraduate computer science student studying at
 
 ```
 Languages and Technologies
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 ```
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 
 <!--
