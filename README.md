@@ -1,5 +1,5 @@
 ### Hi, I'm Veren Villegas! <picture>
-<img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">
+<img src=/Assets/aboutme.png>
 </picture>
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
