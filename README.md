@@ -3,7 +3,7 @@
     <link rel="stylesheet" href="./Assets/style.css">
   </head>
   <body>
-    <div margin="auto">
+    <div display="block" margin-left="auto" margin-right="auto">
       <picture>
         <img src=/Assets/aboutMe.png>
       </picture>
