@@ -2,7 +2,7 @@
 <img width="1080px" height="425px" src="https://github.com/Vommy/Vommy/assets/81606492/ff38dab2-e5b0-4b8c-9d4e-d050eb1a38c2">
 
 ## About Me 
-I am an undergraduate computer scientist from the University of Waikato, New Zealand. I am experienced in developing web applications using web technologies and frameworks, as well as object-oriented programs. I have extensively practised data structures and algorithms and take a code-quality approach to any project. I also have multiple years of work history in team management in a professional environment, and am willing to constantly learn new skills and technologies. 
+I am an undergraduate computer scientist from the University of Waikato, New Zealand. I am experienced in developing web applications using web technologies and frameworks, creating and maintaining object-oriented programs, as well as using data structures and algorithms. I take a code-quality approach to any project, and I also have multiple years of work history in team management in a professional environment, and am willing to constantly learn new skills and technologies. 
 
 ## Personal Information
 📜 _Personal Stats_
