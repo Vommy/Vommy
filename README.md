@@ -1,6 +1,10 @@
+
+![Untitled](https://github.com/Vommy/Vommy/assets/81606492/08116b07-02ae-4ca1-9f70-c1ebf221ee39)
+
 # Hi, I'm Veren Villegas!
 <!--
-**Vommy/Vommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vommy/Vommy** is a ✨ _special_ ✨ repository because its![Uploading aboutMe.png…]()
+ `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
