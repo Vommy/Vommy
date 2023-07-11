@@ -1,4 +1,4 @@
-<img justify-content="center" width="auto" height="250px" src="https://github.com/Vommy/Vommy/assets/81606492/7b0ef269-7c74-4437-9106-7a3fa6af55b1">
+<img width="max-width" height="250px" src="https://github.com/Vommy/Vommy/assets/81606492/7b0ef269-7c74-4437-9106-7a3fa6af55b1">
 
 # Hi, I'm Veren Villegas! 👋
 
