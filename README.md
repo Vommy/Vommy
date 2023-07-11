@@ -1,5 +1,6 @@
 
-![Untitled](https://github.com/Vommy/Vommy/assets/81606492/08116b07-02ae-4ca1-9f70-c1ebf221ee39)
+![mai-sakurajima-seishun-buta-yarou](https://github.com/Vommy/Vommy/assets/81606492/9f64677b-f074-4773-943e-1fd246129664)
+
 
 # Hi, I'm Veren Villegas!
 <!--
