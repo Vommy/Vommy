@@ -2,7 +2,7 @@
 # Hi, I'm Veren Villegas!
 
 ## About Me
-# Qualifications 
+### Qualifications 
 • Bachelor of Science BSC                                [2021-Present]
 > Major in Computer Science University of Waikato
 
