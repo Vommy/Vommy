@@ -2,7 +2,10 @@
 # Hi, I'm Veren Villegas! 👋
 
 ## About Me 
-I'm an undergraduate computer science student studying at
+* Can develop intuitive and well-designed web applications using HTML, CSS, JavaScript, React, PHP and Node.js
+* Strong understanding of object-oriented code
+* Multiple years of practical experience with data structures and algorithms
+* Several years of paid experience in team management
 
 ### Qualifications
 * Bachelor of Science BSC _[2021-Present]_
@@ -26,7 +29,8 @@ I'm an undergraduate computer science student studying at
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white>
 </div>
 
 ## Github Stats
