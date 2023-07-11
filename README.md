@@ -1,9 +1,8 @@
 
+# Hi, I'm Veren Villegas!
 
 ![aboutMe](https://github.com/Vommy/Vommy/assets/81606492/cc8d8a2f-40da-41f2-bc94-1d41eb54075a)
 
-
-# Hi, I'm Veren Villegas!
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its![Uploading aboutMe.png…]()
  `README.md` (this file) appears on your GitHub profile.
