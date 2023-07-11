@@ -2,7 +2,10 @@
 # Hi, I'm Veren Villegas!
 
 ## About Me
-Undergradute studying Computer Science at the University of Waikato
+# Qualifications 
+• Bachelor of Science BSC                                [2021-Present]
+Majoring in Computer Science University of Waikato
+
 
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its![Uploading aboutMe.png…]()
