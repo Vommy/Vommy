@@ -9,6 +9,7 @@ I am an undergraduate computer scientist from the University of Waikato, New Zea
 - DOB: 27/02/2003
 - Ethnicity: Filipino
 - Religion: Catholic
+- Currently based in: New Zealand
 
  🎮 _Interests_
 - Learning new languages (programming and natural)
