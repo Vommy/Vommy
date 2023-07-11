@@ -4,6 +4,10 @@
 ## About Me 
 I am an undergraduate computer scientist from the University of Waikato, New Zealand. I am experienced in developing web applications using web technologies and frameworks, as well as object-oriented programs. I have extensively practised data structures and algorithms and take a code-quality approach to any project. I also have multiple years of work history in team management in a professional environment, and am willing to constantly learn new skills and technologies. 
 
+## 🌱 I’m currently learning ...
+- Machine Learning
+- Unity and game development
+
 ### Qualifications
 * Bachelor of Science BSC _[2021-Present]_
    > Major in Computer Science University of Waikato
