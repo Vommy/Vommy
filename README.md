@@ -5,19 +5,19 @@
 I am an undergraduate computer scientist from the University of Waikato, New Zealand. I am experienced in developing web applications using web technologies and frameworks, as well as object-oriented programs. I have extensively practised data structures and algorithms and take a code-quality approach to any project. I also have multiple years of work history in team management in a professional environment, and am willing to constantly learn new skills and technologies. 
 
 ## Personal Information
-_Personal Stats_
+📜 _Personal Stats_
 - DOB: 27/02/2003
 - Ethnicity: Filipino
 - Religion: Catholic
 
- _Interests_
+ 🎮 _Interests_
 - Learning new languages (programming and natural)
 - Bodybuilding and working out
-- Listening to music, watching anime, drawing and playing video games
+- Listening to music, watching anime, drawing, and playing video games
 - Meeting new people
 - Travelling
 
-## Strengths
+## 🦾 Strengths
 - 2+ years of experience with developing web applications using technologies such as HTML, CSS, JavaScript, React, PHP and Node.js
 - 3 years of experience with object-oriented code as well data structures and algorithms
 - Paid experience in leading team projects as well as handling client interactions. Strong communication and teamwork skills
