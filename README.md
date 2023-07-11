@@ -2,6 +2,7 @@
 # Hi, I'm Veren Villegas!
 
 ## About Me
+Undergradute studying Computer Science at the University of Waikato
 
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its![Uploading aboutMe.png…]()
