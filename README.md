@@ -29,7 +29,7 @@ I'm an undergraduate computer science student studying at
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
 </div>
 
-[![Vommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vommy)](https://github.com/anuraghazra/github-readme-stats)
+[![Vommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vommy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
