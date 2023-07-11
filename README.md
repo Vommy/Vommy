@@ -1,5 +1,5 @@
 ### Hi, I'm Veren Villegas! <picture>
-<img src=/Assets/aboutme.png>
+<img src=/Assets/aboutMe.png>
 </picture>
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
