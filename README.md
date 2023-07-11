@@ -3,7 +3,7 @@
     <link rel="stylesheet" href="./Assets/style.css">
   </head>
   <body>
-    <div justify-content="center">
+    <div margin="auto">
       <picture>
         <img src=/Assets/aboutMe.png>
       </picture>
