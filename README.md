@@ -30,7 +30,7 @@ Languages and Technologies
    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
 </div>
-[![Vommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vommy)](https://github.com/Vommy/github-readme-stats)
+[![Vommy's GitHub stats][(https://github-readme-stats.vercel.app/api?username=Vommy)](https://github.com/Vommy/github-readme-stats)
 
 
 
