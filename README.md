@@ -6,7 +6,7 @@
 • Bachelor of Science BSC _[2021-Present]_
 > Major in Computer Science University of Waikato
 
-`#634ab1`
+`#0969DA`
 
 ```
 Languages
