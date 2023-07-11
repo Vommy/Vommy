@@ -14,7 +14,7 @@ I am an undergraduate computer scientist from the University of Waikato, New Zea
  🎮 _Interests_
 - Learning new languages (programming and natural)
 - Bodybuilding and working out
-- Listening to music, watching anime, drawing, and playing video games
+- Listening to music, watching anime, drawing, and playing/streaming video games
 - Meeting new people
 - Travelling
 
