@@ -1,7 +1,6 @@
 
 # Hi, I'm Veren Villegas!
 
-![aboutMe](https://github.com/Vommy/Vommy/assets/81606492/cc8d8a2f-40da-41f2-bc94-1d41eb54075a)
 
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its![Uploading aboutMe.png…]()
@@ -18,6 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-const Veren = {
-
-};
