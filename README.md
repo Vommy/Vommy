@@ -1,8 +1,15 @@
-<div justify-content="center">
-  <picture>
-  <img src=/Assets/aboutMe.png>
-  </picture>
-</div>
+<html>
+  <head>
+    <link rel="stylesheet" href="/Assets/style.css">
+  </head>
+  <body>
+    <div class="container">
+      <picture>
+      <img src=/Assets/aboutMe.png>
+      </picture>
+    </div>
+  </body>
+</html>
 ### Hi, I'm Veren Villegas!
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
