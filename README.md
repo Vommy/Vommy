@@ -7,7 +7,6 @@
 > Major in Computer Science University of Waikato
 
 ```
-`#0969DA`
 Languages
 ```
 
