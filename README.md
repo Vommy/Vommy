@@ -2,12 +2,15 @@
 # Hi, I'm Veren Villegas! 👋
 
 ## About Me 
-### Qualifications 
+I'm an undergraduate computer science student studying at
+
+### Qualifications
 * Bachelor of Science BSC _[2021-Present]_
    > Major in Computer Science University of Waikato
 
 ```
-Languages
+Languages and Technologies
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 ```
 
 
