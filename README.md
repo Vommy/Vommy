@@ -1,4 +1,4 @@
-### Hi, I'm Veren Villegas! ![Waving Hand](https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif)
+### Hi, I'm Veren Villegas! ![Waving Hand](https://tenor.com/view/ecomity-tusi-bag-t%C3%BAi-tusi-xin-ch%C3%A0o-ch%C3%A0o-b%E1%BA%A1n-gif-20178974)
 
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
