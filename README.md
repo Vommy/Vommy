@@ -29,6 +29,7 @@ I am an undergraduate computer scientist from the University of Waikato, New Zea
 - Machine Learning
 - Unity and game development
 - Embedded Systems
+- React, Node.js, Express
 
 ## 🥇 Qualifications
 * Bachelor of Science BSC _[2021-Present]_
