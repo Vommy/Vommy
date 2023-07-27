@@ -19,7 +19,7 @@ I am an undergraduate computer scientist from the University of Waikato, New Zea
 - Travelling
 
 ## 🦾 Strengths
-- 2+ years of experience with developing web applications using technologies such as HTML, CSS, JavaScript, React, PHP and Node.js
+- 2+ years of experience with developing web applications using technologies such as HTML, CSS, JavaScript, and PHP
 - 3 years of experience with object-oriented code as well data structures and algorithms
 - Paid experience in leading team projects as well as handling client interactions. Strong communication and teamwork skills
 - Oriented to high code-quality solutions, good documentation and familiar with software design processes
