@@ -26,7 +26,7 @@ I am an undergraduate computer scientist from the University of Waikato, New Zea
 - Adaptable and open to learning new skills and mindsets
 
 ## 🌱 I’m currently learning ...
-- React, Node.js, Express and more advanced web development
+- Responsive CSS, TypeScript, React, Node.js, Express and more advanced web development
 - Machine Learning
 
 ## 🥇 Qualifications
