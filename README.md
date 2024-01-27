@@ -4,20 +4,6 @@
 ## About Me 
 I am a graduate computer scientist from the University of Waikato, New Zealand. I have experience in developing web applications using technologies and frameworks (HTML, CSS, React, TypeScript, Node.js, Express), creating and maintaining software applications using C# and Java, building databases, as well as studying data structures and algorithms. I take a code-quality approach to all of my work, and I also have 3+ years of work history in team management + customer service in a professional environment. 
 
-## Personal Information
-📜 _Personal Stats_
-- DOB: 27/02/2003
-- Ethnicity: Filipino
-- Religion: Catholic
-- Currently based in: New Zealand
-
- 🎮 _Interests_
-- Learning new languages (programming and natural)
-- Bodybuilding and working out
-- Listening to music, watching anime, drawing, and playing/streaming video games
-- Meeting new people
-- Travelling
-
 ## 🦾 Strengths
 - 2+ years of experience with developing web applications using technologies such as HTML, CSS, JavaScript, and PHP
 - 3 years of experience with object-oriented languages such as C#, Java and Python to develop software applications.
@@ -62,6 +48,21 @@ I am a graduate computer scientist from the University of Waikato, New Zealand. 
 ## 💹 Github Stats
 [![Vommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vommy&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vommy&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+## Personal Information
+📜 _Personal Stats_
+- DOB: 27/02/2003
+- Ethnicity: Filipino
+- Religion: Catholic
+- Currently based in: Tauranga, New Zealand
+
+ 🎮 _Interests_
+- Learning new languages (programming and natural)
+- Bodybuilding and exercising
+- Listening to music, watching anime, drawing, and playing/streaming video games
+- Video editing and content creation
+- Meeting new people
+- Travelling
 
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its![Uploading aboutMe.png…]()
