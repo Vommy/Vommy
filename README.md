@@ -2,7 +2,7 @@
 <img width="1080px" height="425px" src="https://github.com/Vommy/Vommy/assets/81606492/ff38dab2-e5b0-4b8c-9d4e-d050eb1a38c2">
 
 ## About Me 
-I am a graduate computer scientist from the University of Waikato, New Zealand. I have experience in developing web applications using technologies and frameworks (HTML, CSS, React, TypeScript, Node.js, Express), creating and maintaining software applications using C# and Java, building databases, as well as studying data structures and algorithms. I take a code-quality approach to all of my work, and I also have 3+ years of work history in team management + customer service in a professional environment. 
+I am a graduate computer scientist from the University of Waikato, New Zealand. I have experience in developing web applications using technologies and frameworks (HTML, CSS, React, TypeScript, Node.js, Express), creating and maintaining software applications using C# and Java, building databases, as well as studying data structures and algorithms. I take a code-quality approach to all of my work, and I also have 3+ years of work history in team management and customer service in a professional environment. 
 
 ## 🦾 Strengths
 - 2+ years of experience with developing web applications using technologies such as HTML, CSS, JavaScript, and PHP
