@@ -2,7 +2,7 @@
 <img width="1080px" height="425px" src="https://github.com/Vommy/Vommy/assets/81606492/ff38dab2-e5b0-4b8c-9d4e-d050eb1a38c2">
 
 ## About Me 
-I am an undergraduate computer scientist from the University of Waikato, New Zealand. I am experienced in developing web applications using web technologies and frameworks, creating and maintaining object-oriented programs, as well as using data structures and algorithms. I take a code-quality approach to any project, and I also have multiple years of work history in team management in a professional environment, and am willing to constantly learn new skills and technologies. 
+I am a graduate computer scientist from the University of Waikato, New Zealand. I have experience in developing web applications using technologies and frameworks (HTML, CSS, React, TypeScript, Node.js, Express), creating and maintaining software applications using C# and Java, building databases, as well as studying data structures and algorithms. I take a code-quality approach to all of my work, and I also have 3+ years of work history in team management + customer service in a professional environment. 
 
 ## Personal Information
 📜 _Personal Stats_
@@ -20,13 +20,15 @@ I am an undergraduate computer scientist from the University of Waikato, New Zea
 
 ## 🦾 Strengths
 - 2+ years of experience with developing web applications using technologies such as HTML, CSS, JavaScript, and PHP
-- 3 years of experience with object-oriented languages such as C#, Java and Python as well data structures and algorithms
+- 3 years of experience with object-oriented languages such as C#, Java and Python to develop software applications.
+- Designed and built databases as well as interacted with them
+- Have built and consumed API's (predominantly using Node.js)
 - Paid experience in leading team projects as well as handling client interactions. Strong communication and teamwork skills
 - Oriented to high code-quality solutions, good documentation and familiar with software design processes
 - Adaptable and open to learning new skills and mindsets
 
 ## 🌱 I’m currently learning ...
-- Responsive CSS, TypeScript, React, Node.js, Express and more advanced web development
+- Responsive CSS, TypeScript, React, and more advanced web development
 - Machine Learning
 
 ## 🥇 Qualifications
@@ -51,7 +53,6 @@ I am an undergraduate computer scientist from the University of Waikato, New Zea
    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
-   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
