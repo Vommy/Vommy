@@ -54,6 +54,7 @@ I am a graduate computer scientist from the University of Waikato, New Zealand. 
       <a href="https://www.youtube.com/@vombox_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
       <a href="https://www.instagram.com/verenvillegas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="https://www.twitch.tv/vombox_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+      <a href="https://myanimelist.net/profile/Vommy"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
 </div>
 
 ## 💹 Github Stats
